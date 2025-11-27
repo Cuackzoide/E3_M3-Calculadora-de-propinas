@@ -65,4 +65,4 @@ function nombre(parametros) {
 
 ### Entrega:
 
-El trabajo deberá ser entregado a través de un [repositorio público]() en GitHub.
+El trabajo deberá ser entregado a través de un [repositorio público](https://github.com/Cuackzoide/E3_M3-Calculadora-de-propinas) en GitHub.
